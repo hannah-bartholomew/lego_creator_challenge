@@ -1,5 +1,5 @@
 # lego_creator_challenge
-A SQL Portfolio challenge to create a schema
+A SQL Portfolio challenge to create a schema.
 See https://github.com/wjsutton/lego_analysis_challenge/tree/main for full challenge
 
 ## Part 1: Schema Setup :inbox_tray:
