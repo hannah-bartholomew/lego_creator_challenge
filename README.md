@@ -3,7 +3,8 @@ A SQL Portfolio challenge to create a schema
 See https://github.com/wjsutton/lego_analysis_challenge/tree/main for full challenge
 
 Part 1: Schema Setup 📥
-We're going to use the local PostgreSQL database to build and populate a series of tables that make up a LEGO database. You will need to create tables, insert data, set primary and foreign keys, and then create an ER (Entity-Relationship) diagram.
+
+We're going to build and populate a series of tables that make up a LEGO database. You will need to create tables, insert data, set primary and foreign keys, and then create an ER (Entity-Relationship) diagram.
 
 Key Steps
 1. Create Your Schema:
